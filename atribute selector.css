@@ -1,0 +1,13 @@
+/* input[type = "text"]{
+    color: rgb(30, 59, 6);
+    background-color: lightblue;
+}
+/* a[href *= "google"]{
+    color: lime;
+} */
+/* a[href *= "http"]{
+    color: aqua
+} */ 
+a[href *= ".com"]{
+    color: rgb(231, 60, 180)
+}
